@@ -49,7 +49,7 @@ LearnPy/
 
 ## 🌐 Live Demo
 - If you plan to deploy it, add the link here:
-**🔗 Live Demo**
+**[🔗 Live Demo](https://skc-sunil-learnpy.netlify.app/)**
 
 ## 📜 License
 - This project is licensed under the MIT License.
