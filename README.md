@@ -42,8 +42,7 @@ LearnPy/
    ```sh
    git clone https://github.com/Sunilstar-V/LearnPy.git
    cd LearnPy
-```
-```
+   ```
 2. **Open index.html in a browser**
 3. **Enjoy the Python learning experience! 🎉**
 
